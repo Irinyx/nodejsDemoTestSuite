@@ -1,11 +1,11 @@
-# Disclamer
+# Disclaimer
 For convenience, dependencies have been vendored: node_modules directory commited to the repository
 
 Though for real-life case it is not recommended, there would be additional step to install dependencies first:
 
 `yarn install`
 
-# Dependencies
+# Dependencies`
 - nodejs
 - yarn
 
