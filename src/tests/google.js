@@ -1,6 +1,6 @@
 const assert = require('assert');
 
-describe('Google Test Suite', () => {
+describe('verify Page Title ', () => {
     it('should have valid title', async () => {
         await browser.url(`https://google.com`)
         const title = await browser.getTitle()
